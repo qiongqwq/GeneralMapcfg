@@ -1,4 +1,11 @@
-# X社区 地图翻译 / stripper / Entwatch
+
+
+这是其他服务器地图参数 或者翻译 
+ZE服务器请点这里 https://github.com/MapTextLang/MapTextLang
+
+
+
+# X社区 地图翻译 / stripper /
 ---
 这是X社区 地图翻译 / Entwatch / stripper mapcfg(地图参数) 或者其他翻译 GIT仓库。
 
@@ -11,7 +18,7 @@
 + mapcfg      ->地图参数
 + mappool     ->地图池控制系统
 + entwatch    ->神器显示配置
-+ ze_mapstext ->ZE地图翻译
++ maptext     ->地图翻译
 
 ## 游戏中自动同步方法
 ---
@@ -51,15 +58,3 @@
 3. 禁止修改地图主语句, 如: `*** The Train Will Leave in 5 seconds ***`
 4. 禁止换行
 
-## Entwatch 特殊属性
-<br>
- "damage_boost"     "2.1" //伤害增倍 【承受伤害 * 2.1 从而会增加击退效果】
- 【因为击退和武器伤害是关联的 如果伤害被放大 击退也会被放大 从而不用修改全局击退数值】 
- <br>这可以在某些地图神器 如【人物性物品】无法被打退的情况. 比如为 (大章鱼ze_pirates_port_royal_v5_6 的 Barbossa船长
-  [用法演示]( https://github.com/MapTextLang/MapTextLang/blob/891be9ec2d52118155d4385582d71e9553e8f757/ze_mapstext/entwatchs/ze_pirates_port_royal_v5_6.cfg#L137)
----
-  <br>上述单个参数 使用但前提 僵尸玩家会承受到至少>=1点伤害 使用此参数方可放大
- 
- 然而部分地图会因为模型原因子弹无法穿透到僵尸 所以上述设置无效 需要通过特殊方法来处理.
- [用法演示]( https://github.com/MapTextLang/MapTextLang/blob/master/ze_mapstext/entwatchs/ze_lotr_minas_tirith_p5.cfg#L234-L242)
-----
