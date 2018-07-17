@@ -17,7 +17,6 @@ ZE服务器请点这里 https://github.com/MapTextLang/MapTextLang
 ---
 + mapcfg      ->地图参数
 + mappool     ->地图池控制系统
-+ entwatch    ->神器显示配置
 + maptext     ->地图翻译
 
 ## 游戏中自动同步方法
