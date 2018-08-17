@@ -32,6 +32,54 @@
 		
 		"sound" "ui/xp_levelup.wav"
 	}
+	
+	"USP"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"usp_silencer"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+		
+	"Desert Eagle"
+	{
+		"model"					"models/props/cs_office/cardboard_box01.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"deagle"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+
+
+	"电击枪"
+	{
+		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"taser"
+		"sound" "ui/xp_levelup.wav"
+		
+	}
 
 	"mp5"
 	{
@@ -42,29 +90,12 @@
 		
 		"weight"				"0"
 		"round_start_weight"	"100"
-		"max_spawned"			"15"
+		"max_spawned"			"5"
 		
 		"weapon"				"mp5sd"
 		"sound" "ui/lobby_notification_joined.wav"
 	}
-	
-	"电击枪"
-	{
-		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"7"
-		
-		"weapon"				"taser"
-		"sound" "ui/xp_levelup.wav"
-		
-	}
-	
-	"AWP"
+		"MP9"
 	{
 		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
 		
@@ -72,12 +103,115 @@
 		"touch"					"1"
 		
 		"weight"				"0"
-		"round_start_weight"	"20"
-		"max_spawned"			"1"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
 		
-		"weapon"				"awp"
+		"weapon"				"mp9"
 		"sound" "ui/lobby_notification_joined.wav"
 	}
+
+
+		"MAC-10"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mac10"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"MP7"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"mp7"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"PP-Bizon"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"bizon"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"UMP-45"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"ump45"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"P90"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"p90"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"Negev"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"negev"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	"M249"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"5"
+		"max_spawned"			"5"
+		
+		"weapon"				"m249"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
+	
+
+
 	"AK-47"
 	{
 		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
@@ -226,22 +360,8 @@
 	
 	//手枪
 	
-	"USP"
-	{
-		"model"					"models/props/cs_office/cardboard_box01.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"10"
-		
-		"weapon"				"usp_silencer"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	
-	
+
+
 
 	"P250"
 	{
@@ -333,22 +453,6 @@
 	
 	
 
-	
-	"Desert Eagle"
-	{
-		"model"					"models/props/cs_office/cardboard_box01.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"2"
-		
-		"weapon"				"deagle"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-
 
 	//手枪结束
 	
@@ -409,118 +513,7 @@
 		"weapon"				"mag7"
 		"sound" "ui/lobby_notification_joined.wav"
 	}
-	"MP9"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"20"
-		
-		"weapon"				"mp9"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"MAC-10"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"20"
-		
-		"weapon"				"mac10"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"MP7"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"20"
-		
-		"weapon"				"mp7"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"PP-Bizon"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"20"
-		
-		"weapon"				"bizon"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"UMP-45"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"20"
-		
-		"weapon"				"ump45"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"P90"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"6"
-		
-		"weapon"				"p90"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"Negev"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"10"
-		
-		"weapon"				"negev"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
-	"M249"
-	{
-		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
-		
-		"use"					"1"
-		"touch"					"1"
-		
-		"weight"				"0"
-		"round_start_weight"	"5"
-		"max_spawned"			"10"
-		
-		"weapon"				"m249"
-		"sound" "ui/lobby_notification_joined.wav"
-	}
+
 	"烟雾弹"
 	{
 		"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
@@ -563,7 +556,21 @@
 		"weapon"				"hegrenade"
 		"sound" "ui/lobby_notification_joined.wav"
 	}
-	
+		
+	"AWP"
+	{
+		"model"					"models/props/cs_office/box_office_indoor_32.mdl"
+		
+		"use"					"1"
+		"touch"					"1"
+		
+		"weight"				"0"
+		"round_start_weight"	"20"
+		"max_spawned"			"1"
+		
+		"weapon"				"awp"
+		"sound" "ui/lobby_notification_joined.wav"
+	}
 	//"加血针"
 	//{
 	//	"model"					"models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl"
@@ -579,7 +586,10 @@
 		
 	//	"sound" "ui/xp_levelup.wav"
 	//}
+	
 
+	
+	
 }
 
 
