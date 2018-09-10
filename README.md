@@ -57,4 +57,4 @@ ZE服务器请点这里 https://github.com/MapTextLang/MapTextLang
 3. 禁止修改地图主语句, 如: `*** The Train Will Leave in 5 seconds ***`
 4. 禁止换行
 
-#Trigger uPDATE
+#Trigger uPDATE 2
