@@ -1,0 +1,207 @@
+"Console_T"
+{
+	"*> Map Version : 3 <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Special thanks to Revenant Server MG Users! <*"
+	{
+		"chi"		"** **"
+	}
+	"*** MAC-10 ***"
+	{
+		"chi"		"** **"
+	}
+	"***> Fight! <***"
+	{
+		"chi"		"** **"
+	}
+	"*> Map made by Dus?K <*"
+	{
+		"chi"		"** **"
+	}
+	"*> Map helped by Nande? Ka[X]de! <*"
+	{
+		"chi"		"** **"
+	}
+	"*** Infinite Ammo ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SSG 08 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fog ***"
+	{
+		"chi"		"** **"
+	}
+	"*** P90 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** M4A4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FAMAS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Galil AR ***"
+	{
+		"chi"		"** **"
+	}
+	"* Knife Equip in 30s *"
+	{
+		"chi"		"** **"
+	}
+	"*** AutoBunnyHop ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SCAR-20 ***"
+	{
+		"chi"		"** **"
+	}
+	"* Knife Equip in 10s *"
+	{
+		"chi"		"** **"
+	}
+	"* Knife Equip *"
+	{
+		"chi"		"** **"
+	}
+	"* Boost Disable in 30s *"
+	{
+		"chi"		"** **"
+	}
+	"*** Low Gravity ***"
+	{
+		"chi"		"** **"
+	}
+	"*** M249 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AutoBuunyHop & Infinite Ammo ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PP-Bizon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MP9 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AK-47 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** UMP-45 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SG 556 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MP7 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** G3SG1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Dual Berettas ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tec-9 ***"
+	{
+		"chi"		"** **"
+	}
+	"***> Full Mode <***"
+	{
+		"chi"		"** **"
+	}
+	"*** Sawedoff ***"
+	{
+		"chi"		"** **"
+	}
+	"* Boost Disable in 10s *"
+	{
+		"chi"		"** **"
+	}
+	"* 3 *"
+	{
+		"chi"		"** **"
+	}
+	"* 2 *"
+	{
+		"chi"		"** **"
+	}
+	"* 1 *"
+	{
+		"chi"		"** **"
+	}
+	"* Boost Disable *"
+	{
+		"chi"		"** **"
+	}
+	"*** Glock-18 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** P250 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AWP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** M4A1-S ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Five-seveN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AUG ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CZ75-Auto ***"
+	{
+		"chi"		"** **"
+	}
+	"*** XM1014 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAG-7 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** R8 Revolver ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Negev ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Desert Eagle ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Nova ***"
+	{
+		"chi"		"** **"
+	}
+}
