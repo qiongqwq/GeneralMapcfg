@@ -2,82 +2,82 @@
 {
 	"Map Ported by Shawn for GiClan"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Shawn for GiClan**"制作 翻译：拉姆 "
 	}
 	"You have 45 Seconds to Buy!"
 	{
-		"chi"		"** **"
+		"chi"		"**你有四十五秒时间来购买武器 （F4快捷购买上一次装备）**"
 	}
 	"You have chosen: Cemetery!"
 	{
-		"chi"		"** **"
+		"chi"		"**目的**"
 	}
 	"You have chosen: Submarine!"
 	{
-		"chi"		"** **"
+		"chi"		"**水下**"
 	}
 	"You have chosen: Sewers!"
 	{
-		"chi"		"** **"
+		"chi"		"**下水道**"
 	}
 	"You have chosen: Dev!"
 	{
-		"chi"		"** **"
+		"chi"		"**DEV**"
 	}
 	"You have chosen: Fortress!"
 	{
-		"chi"		"** **"
+		"chi"		"**要塞**"
 	}
 	"You have chosen: Freezer!"
 	{
-		"chi"		"** **"
+		"chi"		"**冰屋**"
 	}
 	"You have chosen: Glass!"
 	{
-		"chi"		"** **"
+		"chi"		"**玻璃**"
 	}
 	"You have chosen: Highway!"
 	{
-		"chi"		"** **"
+		"chi"		"**公路**"
 	}
 	"You have chosen: Rooftop!"
 	{
-		"chi"		"** **"
+		"chi"		"**屋顶 **"
 	}
 	"You have chosen: Maze!"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫 **"
 	}
 	"You have chosen: Speed circle!"
 	{
-		"chi"		"** **"
+		"chi"		"**小型密室赛跑 **"
 	}
 	"You have chosen: Sparta!"
 	{
-		"chi"		"** **"
+		"chi"		"**斯巴达 **"
 	}
 	"You have chosen: Eye rape!"
 	{
-		"chi"		"** **"
+		"chi"		"**基佬小屋 **"
 	}
 	"You have chosen: Hill!"
 	{
-		"chi"		"** **"
+		"chi"		"**攀爬 **"
 	}
 	"You have chosen: Nether!"
 	{
-		"chi"		"** **"
+		"chi"		"**下方 **"
 	}
 	"You have chosen: Pool!"
 	{
-		"chi"		"** **"
+		"chi"		"**泳池 **"
 	}
 	"Maze will be disabled in 5 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫墙壁将在5秒后消失 **"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将关闭更新，请更新您的游戏 **"
 	}
 }
