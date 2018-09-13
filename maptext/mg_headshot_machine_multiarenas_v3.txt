@@ -2,11 +2,11 @@
 {
 	"*> Map Version : 3 <*"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图版本 3**"
 	}
 	"*> Special thanks to Revenant Server MG Users! <*"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢Revenant的玩家**"
 	}
 	"*** MAC-10 ***"
 	{
@@ -14,19 +14,19 @@
 	}
 	"***> Fight! <***"
 	{
-		"chi"		"** **"
+		"chi"		"**开战**"
 	}
 	"*> Map made by Dus?K <*"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Dus?K制作  翻译：拉姆**"
 	}
 	"*> Map helped by Nande? Ka[X]de! <*"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Nande Ka[X]de!协助完成**"
 	}
 	"*** Infinite Ammo ***"
 	{
-		"chi"		"** **"
+		"chi"		"**无限子弹模式**"
 	}
 	"*** SSG 08 ***"
 	{
@@ -54,11 +54,11 @@
 	}
 	"* Knife Equip in 30s *"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后可以使用刀具 注：刀可以直接造成伤害**"
 	}
 	"*** AutoBunnyHop ***"
 	{
-		"chi"		"** **"
+		"chi"		"**自动连跳**"
 	}
 	"*** SCAR-20 ***"
 	{
@@ -66,19 +66,19 @@
 	}
 	"* Knife Equip in 10s *"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒可以使用刀具**"
 	}
 	"* Knife Equip *"
 	{
-		"chi"		"** **"
+		"chi"		"**刀具已经发放**"
 	}
 	"* Boost Disable in 30s *"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后加速失效**"
 	}
 	"*** Low Gravity ***"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力**"
 	}
 	"*** M249 ***"
 	{
@@ -86,7 +86,7 @@
 	}
 	"*** AutoBuunyHop & Infinite Ammo ***"
 	{
-		"chi"		"** **"
+		"chi"		"**自动连跳加无限自弹**"
 	}
 	"*** PP-Bizon ***"
 	{
@@ -126,7 +126,7 @@
 	}
 	"***> Full Mode <***"
 	{
-		"chi"		"** **"
+		"chi"		"**全模式**"
 	}
 	"*** Sawedoff ***"
 	{
@@ -134,7 +134,7 @@
 	}
 	"* Boost Disable in 10s *"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后加速失效**"
 	}
 	"* 3 *"
 	{
@@ -150,7 +150,7 @@
 	}
 	"* Boost Disable *"
 	{
-		"chi"		"** **"
+		"chi"		"**加速效果已经消失**"
 	}
 	"*** Glock-18 ***"
 	{
