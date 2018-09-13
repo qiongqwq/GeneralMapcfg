@@ -2,15 +2,15 @@
 {
 	"@[Map] Map ported by Blogger(Dog)"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Blogger(Dog)制作  翻译:拉姆**"
 	}
 	"@[Map] Special thanks to DexKekcuk #13"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢 DexKekcuk #13**"
 	}
 	"@[Map] Secret room Disable"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋房间禁用**"
 	}
 	"@[Map] Map by TheProdigy"
 	{
@@ -18,51 +18,51 @@
 	}
 	"@[Map] Secret room Enable"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋房正在开启**"
 	}
 	"@[Map] Skate v2"
 	{
-		"chi"		"** **"
+		"chi"		"**滑冰刀人V2**"
 	}
 	"@[Music] JayKode - Release (feat. Tima Dee)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐JayKode - Release (feat. Tima Dee)**"
 	}
 	"@[Map] Scout"
 	{
-		"chi"		"** **"
+		"chi"		"**鸟狙**"
 	}
 	"@[Gravity] Random gravity"
 	{
-		"chi"		"** **"
+		"chi"		"**正常重力**"
 	}
 	"@[Gravity] High gravity"
 	{
-		"chi"		"** **"
+		"chi"		"**高重力**"
 	}
 	"@[Music] Dropout - Slowly (Two Friends Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Dropout - Slowly (Two Friends Remix) **"
 	}
 	"@[Map] Blind Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"**盲人沙鹰or穿墙沙鹰 **"
 	}
 	"@[Music] Archie - Back Again"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Archie - Back Again**"
 	}
 	"@[Map] Football 1HP"
 	{
-		"chi"		"** **"
+		"chi"		"**1血足球 **"
 	}
 	"@[Map] Skate"
 	{
-		"chi"		"** **"
+		"chi"		"**滑冰刀人 **"
 	}
 	"@[Map] Skipping Rope"
 	{
-		"chi"		"** **"
+		"chi"		"**快乐跳绳 记得开场站在正确的一边**"
 	}
 	"@[Map] >5<"
 	{
@@ -86,67 +86,67 @@
 	}
 	"@[Map] >Go!<"
 	{
-		"chi"		"** **"
+		"chi"		"**开始**"
 	}
 	"@[Music] Arman Cekin & Larcy - Taste"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Arman Cekin & Larcy - Taste **"
 	}
 	"@[Map] T Win"
 	{
-		"chi"		"** **"
+		"chi"		"**恐怖分子胜利**"
 	}
 	"@[Map] Labyrinth"
 	{
-		"chi"		"** **"
+		"chi"		"**可以开手电的迷宫混战 **"
 	}
 	"@[Music] Charlie Clouser - Dead Silence Theme"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Charlie Clouser - Dead Silence Theme **"
 	}
 	"@[MAP] KNIFE"
 	{
-		"chi"		"** **"
+		"chi"		"**刀战 **"
 	}
 	"@[Map] Random mod..."
 	{
-		"chi"		"** **"
+		"chi"		"**随机选图 **"
 	}
 	"@[Mod] BackStab mod"
 	{
-		"chi"		"** **"
+		"chi"		"**背刺模式开启 **"
 	}
 	"@[Music] Krewella - Alive"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Krewella - Alive **"
 	}
 	"@[Map] CT Win"
 	{
-		"chi"		"** **"
+		"chi"		"**反恐精英胜利 **"
 	}
 	"@[Map] Speed Jumps"
 	{
-		"chi"		"** **"
+		"chi"		"**快速旋转跳**"
 	}
 	"@[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Imagine Dragons - Demons (Dzeko & Torres Remix) **"
 	}
 	"@[Map] 25 Second"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒 **"
 	}
 	"@[Map] Long Jump v2"
 	{
-		"chi"		"** **"
+		"chi"		"**长跳V2 **"
 	}
 	"@[Map] Spawn fight"
 	{
-		"chi"		"** **"
+		"chi"		"**出生点二五仔随机枪支混战 **"
 	}
 	"@[Map] every man for himself"
 	{
-		"chi"		"** **"
+		"chi"		"**只有一个人能站到最后**"
 	}
 	"@[Weapon] M4A1"
 	{
@@ -154,130 +154,130 @@
 	}
 	"@[Hp] 300"
 	{
-		"chi"		"** **"
+		"chi"		"**300血**"
 	}
 	"@[Map] AWP v2"
 	{
-		"chi"		"** **"
+		"chi"		"**awp狙击V2**"
 	}
 	"@[Map] Bhop"
 	{
-		"chi"		"** **"
+		"chi"		"**连跳**"
 	}
 	"@[Map] Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷 只有从最上面那个缝里面才能丢过去**"
 	}
 	"@[Map] 2Rooms"
 	{
-		"chi"		"** **"
+		"chi"		"**2间小房子  awp可以穿透两边窗户 手雷禁用**"
 	}
 	"@[Music] Diplo - Revolution (Unlike Pluto Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Diplo - Revolution (Unlike Pluto Remix) **"
 	}
 	"@[Map] Scout v2"
 	{
-		"chi"		"** **"
+		"chi"		"**鸟狙V2**"
 	}
 	"@[Gravity] Low gravity"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力模式**"
 	}
 	"@[Weapon] Knife"
 	{
-		"chi"		"** **"
+		"chi"		"**刀战**"
 	}
 	"@[Hp] 250"
 	{
-		"chi"		"** **"
+		"chi"		"**250血**"
 	}
 	"@[Map] 30 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"@[Map] TimeLimit"
 	{
-		"chi"		"** **"
+		"chi"		"**时间剩余**"
 	}
 	"@[Map] Long Jump"
 	{
-		"chi"		"** **"
+		"chi"		"**长跳**"
 	}
 	"@[Map] Many Rooms"
 	{
-		"chi"		"** **"
+		"chi"		"**开门送喷子加手雷**"
 	}
 	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐 Mark Ronson - Uptown Funk ft. Bruno Mars **"
 	}
 	"@[Map] Blind Deagle v2"
 	{
-		"chi"		"** **"
+		"chi"		"**盲人穿墙沙鹰V2**"
 	}
 	"@[Mod] Knife 65HP"
 	{
-		"chi"		"** **"
+		"chi"		"**65血刀战**"
 	}
 	"@[Weapon] Awp"
 	{
-		"chi"		"** **"
+		"chi"		"**狙击枪**"
 	}
 	"@[Hp] 200"
 	{
-		"chi"		"** **"
+		"chi"		"**200血**"
 	}
 	"@[Weapon] Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"**沙鹰**"
 	}
 	"@[Hp] 150"
 	{
-		"chi"		"** **"
+		"chi"		"**150血**"
 	}
 	"@[Weapon] AK-47"
 	{
-		"chi"		"** **"
+		"chi"		"**AK47**"
 	}
 	"@[Hp] 500"
 	{
-		"chi"		"** **"
+		"chi"		"**500血**"
 	}
 	"@[Mod] Knife 1HP"
 	{
-		"chi"		"** **"
+		"chi"		"**1血刀战**"
 	}
 	"@[Map] Shotgun"
 	{
-		"chi"		"** **"
+		"chi"		"**迷宫喷子 **"
 	}
 	"@[Map] RandomGame..."
 	{
-		"chi"		"** **"
+		"chi"		"**随机模式**"
 	}
 	"@[MAP] AWP"
 	{
-		"chi"		"** **"
+		"chi"		"**awp**"
 	}
 	"@[Map] Football 100HP"
 	{
-		"chi"		"** **"
+		"chi"		"**100血足球？？？踢一年？？？**"
 	}
 	"@[Gravity] Normal gravity"
 	{
-		"chi"		"** **"
+		"chi"		"**正常重力**"
 	}
 	"@[Map] 30 seconds slay"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒后处死**"
 	}
 	"@[Map] Time limit"
 	{
-		"chi"		"** **"
+		"chi"		"**时间剩余**"
 	}
 	"@ TimeLimit!"
 	{
-		"chi"		"** **"
+		"chi"		"**时间剩余**"
 	}
 }
