@@ -2,7 +2,7 @@
 {
 	"@[Map] Map ported by Blogger(Dog)"
 	{
-		"chi"		"**地图由Blogger(Dog)制作  翻译:拉姆**"
+		"chi"		"**地图由Blogger(Dog)搬运  翻译:拉姆**"
 	}
 	"@[Map] Special thanks to DexKekcuk #13"
 	{
@@ -14,7 +14,7 @@
 	}
 	"@[Map] Map by TheProdigy"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由TheProdigy制作**"
 	}
 	"@[Map] Secret room Enable"
 	{
@@ -34,7 +34,7 @@
 	}
 	"@[Gravity] Random gravity"
 	{
-		"chi"		"**正常重力**"
+		"chi"		"**选择重力模式**"
 	}
 	"@[Gravity] High gravity"
 	{
@@ -46,7 +46,7 @@
 	}
 	"@[Map] Blind Deagle"
 	{
-		"chi"		"**盲人沙鹰or穿墙沙鹰 **"
+		"chi"		"**穿墙沙鹰 **"
 	}
 	"@[Music] Archie - Back Again"
 	{
@@ -98,7 +98,7 @@
 	}
 	"@[Map] Labyrinth"
 	{
-		"chi"		"**可以开手电的迷宫混战 **"
+		"chi"		"**厕所风云 **"
 	}
 	"@[Music] Charlie Clouser - Dead Silence Theme"
 	{
@@ -206,7 +206,7 @@
 	}
 	"@[Map] Many Rooms"
 	{
-		"chi"		"**开门送喷子加手雷**"
+		"chi"		"**开门送温暖**"
 	}
 	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
 	{
@@ -214,7 +214,7 @@
 	}
 	"@[Map] Blind Deagle v2"
 	{
-		"chi"		"**盲人穿墙沙鹰V2**"
+		"chi"		"**穿墙沙鹰V2**"
 	}
 	"@[Mod] Knife 65HP"
 	{
@@ -250,7 +250,7 @@
 	}
 	"@[Map] Shotgun"
 	{
-		"chi"		"**迷宫喷子 **"
+		"chi"		"**对抗喷子 **"
 	}
 	"@[Map] RandomGame..."
 	{
