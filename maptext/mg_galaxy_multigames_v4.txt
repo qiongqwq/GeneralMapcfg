@@ -26,7 +26,7 @@
 	}
 	"[MAP] STRAFE"
 	{
-		"chi"		"**扫射**"
+		"chi"		"** **"
 	}
 	"[Map] SKIPPING ROPE"
 	{
@@ -34,7 +34,7 @@
 	}
 	"[Map] 65HP KNIFE ARENA"
 	{
-		"chi"		"**65血刀战**"
+		"chi"		"**65血刀战 禁止卡门刀人**"
 	}
 	"[Map] AWP"
 	{
@@ -42,7 +42,7 @@
 	}
 	"[Map] KNIFE ARENA"
 	{
-		"chi"		"**刀子竞技场**"
+		"chi"		"**伪背刺1V1 多人卡进去请自觉1V1**"
 	}
 	"[Map] MAZE M249"
 	{
